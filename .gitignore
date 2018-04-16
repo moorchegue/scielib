@@ -1,0 +1,31 @@
+# vim
+*.sw[o,p]
+
+# python
+build/
+dist/
+*.py[o,c]
+__pycache__
+*.egg
+*.egg-info
+.ropeproject
+
+# tests
+.pytest.xml
+.cache
+.tox
+.eggs
+.coverage
+.pytest_cache
+htmlcov
+
+# logs
+*.log
+
+# database dumps
+*.sql
+*.sqlite?
+
+# the project
+scielib/media
+scielib/static
