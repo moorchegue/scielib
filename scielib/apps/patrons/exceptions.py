@@ -1,3 +1,0 @@
-class BorrowingIsAlreadyFinalized(Exception):
-
-    pass
